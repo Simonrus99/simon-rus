@@ -1,2 +1,2 @@
-User-agent: Googlebot
+User-agent:
 Sitemap: https://www.example.com/sitemap.xml
