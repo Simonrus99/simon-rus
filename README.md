@@ -1,1 +1,1 @@
-# simon-rus
+# /moj-web/
